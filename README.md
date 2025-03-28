@@ -3,7 +3,7 @@
 
 🗂️ 1. Core Cloud Concepts (20-25%)
 
-    Cloud Models:
+**    Cloud Models:**
 
         Public Cloud: Resources are owned and operated by a third-party cloud provider.
 
@@ -11,7 +11,7 @@
 
         Hybrid Cloud: Combines public and private clouds, allowing data and applications to be shared.
 
-    Benefits of Cloud Computing:
+**    Benefits of Cloud Computing:**
 
         Cost Savings: Pay-as-you-go (OPEX) instead of capital expenditures (CAPEX).
 
@@ -25,7 +25,7 @@
 
         Disaster Recovery: Built-in recovery options.
 
-    Service Models:
+**    Service Models:**
 
         IaaS (Infrastructure as a Service): Virtual machines, networking, and storage (e.g., Azure VMs).
 
@@ -71,7 +71,7 @@
 
         Azure SQL Database: Managed relational database.
 
-🔒 3. Security, Privacy, Compliance, and Trust (25-30%)
+**🔒 3. Security, Privacy, Compliance, and Trust (25-30%)**
 
     Azure Identity Services:
 
@@ -97,7 +97,7 @@
 
         Service Trust Portal: Information on how Microsoft implements security.
 
-💲 4. Azure Pricing and Support (20-25%)
+**💲 4. Azure Pricing and Support (20-25%)**
 
     Pricing Models:
 
@@ -127,7 +127,7 @@
 
         Premier: Comprehensive support.
 
-🌐 5. Governance and Monitoring (10-15%)
+**🌐 5. Governance and Monitoring (10-15%)**
 
     Azure Policy: Define rules and enforce compliance.
 
@@ -139,7 +139,7 @@
 
     Log Analytics: Collect and analyze logs.
 
-🧠 Exam Tips:
+**🧠 Exam Tips:**
 
     Understand Cloud Concepts: Be able to differentiate between IaaS, PaaS, and SaaS.
 
@@ -151,7 +151,7 @@
 
     Hands-On Practice: Try using the Azure Portal for basic tasks to get familiar with services.
 
-📚 Recommended Study Resources:
+**📚 Recommended Study Resources:**
 
     Microsoft Learn: Free, self-paced learning modules.
 
