@@ -1,7 +1,7 @@
 # azurecheatsheet
 💻 Microsoft Azure Fundamentals (AZ-900) Cheat Sheet
 
-The Microsoft Azure Fundamentals (AZ-900) exam is designed for candidates looking to demonstrate foundational knowledge of cloud services and how they are provided with Microsoft Azure. It covers core cloud concepts, Azure services, security, pricing, and more.
+It is designed for candidates looking to demonstrate foundational knowledge of cloud services and how they are provided with Microsoft Azure. It covers core cloud concepts, Azure services, security, pricing, and more.
 
 --------------------------------------------------------
 
